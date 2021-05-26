@@ -2,9 +2,10 @@
   "manifest_version": 2,
   "name": "Goodriddance",
   "description": "An add-on to help looking for books from Goodreads on The StoryGraph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icons": {
-    "512": "icons/icon.png"
+    "512": "icons/icon.png",
+    "128": "icons/icon128.png"
   },
   "content_scripts": [
     {
